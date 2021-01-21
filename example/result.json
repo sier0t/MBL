@@ -1,0 +1,187 @@
+[
+  {
+    "name": "main",
+    "start": 1.863,
+    "end": 25711.3,
+    "elapsed time": 25709.5,
+    "submeasurements": [
+      {
+        "name": "outer function mbl",
+        "start": 3.386,
+        "end": 25711.1,
+        "elapsed time": 25707.7,
+        "submeasurements": [
+          {
+            "name": "inner function mbl (size: 1)",
+            "start": 8.366,
+            "end": 9.708,
+            "elapsed time": 1.342,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 2)",
+            "start": 10.139,
+            "end": 11.341,
+            "elapsed time": 1.202,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 4)",
+            "start": 11.702,
+            "end": 12.483,
+            "elapsed time": 0.781,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 8)",
+            "start": 12.844,
+            "end": 13.335,
+            "elapsed time": 0.491,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 16)",
+            "start": 13.796,
+            "end": 14.848,
+            "elapsed time": 1.052,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 32)",
+            "start": 15.239,
+            "end": 15.98,
+            "elapsed time": 0.741,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 64)",
+            "start": 16.351,
+            "end": 17.423,
+            "elapsed time": 1.072,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 128)",
+            "start": 17.833,
+            "end": 19.587,
+            "elapsed time": 1.754,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 256)",
+            "start": 19.987,
+            "end": 23.805,
+            "elapsed time": 3.818,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 512)",
+            "start": 24.225,
+            "end": 31.209,
+            "elapsed time": 6.984,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 1024)",
+            "start": 31.82,
+            "end": 42.921,
+            "elapsed time": 11.101,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 2048)",
+            "start": 43.462,
+            "end": 67.076,
+            "elapsed time": 23.614,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 4096)",
+            "start": 67.607,
+            "end": 112.953,
+            "elapsed time": 45.346,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 8192)",
+            "start": 113.494,
+            "end": 204.516,
+            "elapsed time": 91.022,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 16384)",
+            "start": 205.087,
+            "end": 387.732,
+            "elapsed time": 182.645,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 32768)",
+            "start": 388.373,
+            "end": 758.502,
+            "elapsed time": 370.129,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 65536)",
+            "start": 759.374,
+            "end": 1521.92,
+            "elapsed time": 762.549,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 131072)",
+            "start": 1522.86,
+            "end": 3231.72,
+            "elapsed time": 1708.86,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 262144)",
+            "start": 3233.22,
+            "end": 6263.13,
+            "elapsed time": 3029.91,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 524288)",
+            "start": 6264.28,
+            "end": 13338,
+            "elapsed time": 7073.74,
+            "submeasurements": [
+            ]
+          },
+          {
+            "name": "inner function mbl (size: 1048576)",
+            "start": 13344.9,
+            "end": 25710.6,
+            "elapsed time": 12365.7,
+            "submeasurements": [
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
